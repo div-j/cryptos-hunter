@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cryptos-hunter/static/css/main.0e1f6ae0.css",
+    "main.js": "/cryptos-hunter/static/js/main.4894dc10.js",
+    "static/js/453.f1668b37.chunk.js": "/cryptos-hunter/static/js/453.f1668b37.chunk.js",
+    "index.html": "/cryptos-hunter/index.html",
+    "main.0e1f6ae0.css.map": "/cryptos-hunter/static/css/main.0e1f6ae0.css.map",
+    "main.4894dc10.js.map": "/cryptos-hunter/static/js/main.4894dc10.js.map",
+    "453.f1668b37.chunk.js.map": "/cryptos-hunter/static/js/453.f1668b37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e1f6ae0.css",
+    "static/js/main.4894dc10.js"
+  ]
+}
